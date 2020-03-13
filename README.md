@@ -3,3 +3,9 @@ The the core theme of this project is to familiarize oneself with the functionin
 1. A node server meant to house the blockchain nodes.
 2. A server meant to serve the clients with the suitable interace for interaction and also engaging in the acitivty of mining.
 3. A client that takes data from the users and display relevant information.
+
+
+Authors
+@TheQureshi
+@MalikSaqib141947
+@Elvin-Arrow
