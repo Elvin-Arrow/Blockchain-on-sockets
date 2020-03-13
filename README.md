@@ -5,7 +5,6 @@ The the core theme of this project is to familiarize oneself with the functionin
 3. A client that takes data from the users and display relevant information.
 
 
-Authors
-@TheQureshi
-@MalikSaqib141947
-@Elvin-Arrow
+## Authors
+[Muhammad Bin Shakeel Qureshi] (https://github.com/TheQureshi)
+[Elvin Arrow] (https://github.com/Elvin-Arrow)
