@@ -6,5 +6,5 @@ The the core theme of this project is to familiarize oneself with the functionin
 
 
 ## Authors
-- [Muhammad Bin Shakeel Qureshi] (https://github.com/TheQureshi)
-- [Elvin Arrow] (https://github.com/Elvin-Arrow)
+- Muhammad Bin Shakeel Qureshi (https://github.com/TheQureshi)
+- Elvin Arrow (https://github.com/Elvin-Arrow)
