@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Elvin-Arrow/Blockchain-on-sockets) 
+
 # A bares bone basic E-voting system based on block chain concepts
 The the core theme of this project is to familiarize oneself with the functioning of blockchain by building the network from up. The aim is to utilize the concepts of socket programming and establish a system based on the blockchain technology that can be scaled to incorporate the e-voting functionality. The system implemented as a part of this project involves of three basic entities:
 1. A node server meant to house the blockchain nodes.
